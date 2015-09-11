@@ -1,1 +1,1 @@
-![](figure/unnamed-chunk-2.png) 
+![](figure/plot1.png) 
