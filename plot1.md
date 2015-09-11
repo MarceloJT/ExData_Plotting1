@@ -1,4 +1,2 @@
-### Plot 1
+![](c:/plot1.png) 
 
-
-![plot of chunk unnamed-chunk-2](c:/plot2.png) 
